@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaereperi01canggoog_0003.png"; bbox 0 0 1040 1619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 319 602 631 737">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 319 602 631 737">
+     <span class='ocr_line' id='line_1_1' title="bbox 383 602 567 637; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 383 602 567 637; x_wconf 85' lang='lat' dir='ltr'><strong>TAYLOR</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 319 652 631 687; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 319 652 631 687; x_wconf 91' lang='lat' dir='ltr'>INSTITUTION</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 380 702 572 737; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 380 702 572 737; x_wconf 84' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 294 1074 640 1136">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 294 1074 640 1136">
+     <span class='ocr_line' id='line_1_4' title="bbox 355 1074 599 1094; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 355 1074 386 1094; x_wconf 83' lang='lat' dir='ltr'>ST.</span> <span class='ocrx_word' id='word_1_5' title='bbox 393 1074 599 1094; x_wconf 77' lang='lat' dir='ltr'>GlLESOXFORD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 294 1099 640 1136; baseline 0.006 -14"><span class='ocrx_word' id='word_1_6' title='bbox 294 1102 578 1130; x_wconf 44' lang='lat' dir='ltr'>umorve—aete«,</span> <span class='ocrx_word' id='word_1_7' title='bbox 591 1099 640 1136; x_wconf 71' lang='lat'>(4)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 264 1476 463 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 264 1476 463 1604">
+     <span class='ocr_line' id='line_1_6' title="bbox 264 1476 463 1604; baseline 0.005 -1"><span class='ocrx_word' id='word_1_8' title='bbox 264 1589 284 1600; x_wconf 28' lang='grc' dir='ltr'>κ’</span> <span class='ocrx_word' id='word_1_9' title='bbox 308 1476 312 1596; x_wconf 50' lang='grc' dir='ltr'><em>Ε</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 349 1476 398 1604; x_wconf 55' lang='grc' dir='ltr'>Ι“Ι..&gt;</span> <span class='ocrx_word' id='word_1_11' title='bbox 455 1601 463 1604; x_wconf 77' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
